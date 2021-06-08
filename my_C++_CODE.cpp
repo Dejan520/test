@@ -121,7 +121,7 @@ void test05()
 }
 int main()
 {
-	test05();
+	test04();
 	system("pause");
 	return EXIT_SUCCESS;
 }
